@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "ALON — 2BR beachfront suite for rent at La Victoria, Mactan Newtown, Cebu",
+  "packageManager": "pnpm@11.10.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
