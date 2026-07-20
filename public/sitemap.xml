@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace https://alon-mactan.ph with your real domain before publishing -->
+<!-- Live at GitHub Pages. If you add a custom domain, update these URLs. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alon-mactan.ph/</loc>
+    <loc>https://tristola.github.io/luxury_hideaway/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

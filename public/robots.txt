@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-# Replace with your real domain before publishing
-Sitemap: https://alon-mactan.ph/sitemap.xml
+# Live at GitHub Pages. If you add a custom domain, update this URL.
+Sitemap: https://tristola.github.io/luxury_hideaway/sitemap.xml
