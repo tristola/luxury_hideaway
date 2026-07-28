@@ -26,11 +26,12 @@ export default function Residence() {
             </div>
             <div className="split-body reveal d1">
               <span className="eyebrow">Living, Reimagined</span>
-              <h2>Floor-to-ceiling <em>glass</em>, and nothing between you and the water.</h2>
+              <h2>Floor-to-ceiling <em>glass</em>, and the sea on the horizon.</h2>
               <p>
-                The great room opens entirely onto a sea-facing balcony, dissolving the line
-                between inside and shore. Lime-washed walls, hand-finished narra wood, and a
-                kitchen built for long, slow mornings — 79 sqm that lives far larger.
+                The great room opens onto a private, sea-facing balcony set high above the
+                township, framing wide views over the water. Lime-washed walls, hand-finished
+                narra wood, and a kitchen built for long, slow mornings — 79 sqm that lives
+                far larger.
               </p>
               <FeatureList items={LIVING_FEATURES} />
             </div>

@@ -59,6 +59,7 @@ export const AMENITIES = [
 
 export const LOCATION_POINTS = [
   { name: 'Newtown Beach & beach club', dist: '5-min walk' },
+  { name: 'Shops, cafés & convenience stores', dist: '5-min walk' },
   { name: 'Restaurant by Gordon Ramsay', dist: '3 min' },
   { name: 'Shangri-La & Mövenpick resorts', dist: '5 min' },
   { name: 'Mactan-Cebu Intl Airport (MCIA)', dist: '15 min' },

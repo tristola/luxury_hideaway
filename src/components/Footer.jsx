@@ -24,7 +24,7 @@ export default function Footer() {
       </div>
       <div className="foot-bottom">
         <span>© 2026 ALON · La Victoria, Mactan Newtown. All rights reserved.</span>
-        <span>Entire suite · 2 Bedrooms · Beachfront</span>
+        <span>Entire suite · 2 Bedrooms · Steps from the beach</span>
       </div>
     </footer>
   )

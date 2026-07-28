@@ -10,11 +10,13 @@ export default function Location() {
       <div className="loc-inner">
         <div>
           <span className="eyebrow reveal" style={{ color: 'var(--brass-light)' }}>The Setting</span>
-          <h2 className="reveal d1">Mactan Newtown, <em>at your feet.</em></h2>
+          <h2 className="reveal d1">La Victoria, Mactan Newtown, <em>at your feet.</em></h2>
           <p className="reveal d2">
-            A 30-hectare beachfront township on Mactan Island — its own private beach club,
-            boardwalk, and dive-grade waters of the Hilutungan Channel, with the international
-            gateway of Cebu just minutes away.
+            La Victoria sits within Mactan Newtown — a 30-hectare beachfront township on Mactan
+            Island — with its own private beach club,
+            boardwalk, and dive-grade waters of the Hilutungan Channel just a 5-minute walk away.
+            Shops, cafés, and everyday services sit right at your doorstep, with the international
+            gateway of Cebu only minutes further.
           </p>
         </div>
         <ul className="loc-points reveal d2">

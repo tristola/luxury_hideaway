@@ -15,7 +15,7 @@ export default function Hero() {
         <span className="hero-line"><span>the <span className="it">tide.</span></span></span>
       </h1>
       <div className="hero-foot">
-        <p>A two-bedroom suite-level residence at La Victoria, Mactan Newtown — beachfront living on Mactan Island, minutes from the sea and the runway alike.</p>
+        <p>A two-bedroom suite-level residence at La Victoria, Mactan Newtown — steps from the beach on Mactan Island, minutes from the sea and the runway alike.</p>
         <div className="scroll-cue">Scroll to enter</div>
       </div>
     </header>
